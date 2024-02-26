@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Jordan! <br/>Intern Software Engineer</a> </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<b>iOS App Development</b>
+  - [WeatherOne](https://github.com/JEsperance1/WeatherOne)</i>
+  - [BMI Calculator](https://github.com/JEsperance1/BMI-Calculator)</i>
+  
+<b>C</b>
+  - [Gamblin' Greg](https://github.com/JEsperance1/Gamblin-Greg)</i>
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+<img align="left" alt="JordanEsperance | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/jordan-esperance-933203161  
 
 <!--
-**JEsperance1/JEsperance1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JEsperance/JEsperance1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
