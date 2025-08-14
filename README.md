@@ -4,7 +4,7 @@
 
 
 <b>Python</b>
-  - [Arboria](https://github.com/JEsperance1/Arboria)</i>🕹🎮
+  - 🕹️[Arboria](https://github.com/JEsperance1/Arboria)</i>🎮
   
 <b>C</b>
   - [Gamblin' Greg](https://github.com/JEsperance1/Gamblin-Greg)</i>
