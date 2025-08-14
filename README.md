@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan! <br/>Intern Software Engineer</a> </h1>
+<h1>Hi, I'm Jordan! <br/>Software Engineer and Solutions Architect</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
